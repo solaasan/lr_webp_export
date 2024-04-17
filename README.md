@@ -1,4 +1,4 @@
-# HEIC Exporter for lightroom
+# HEIC Exporter for Lightroom Classic
 This is a Lightroom plugin that can change the output file to Heic format.
 
 Although Lightroom currently supports Heic display, it does not support output in Heic format. This plug-in will solve this problem.
