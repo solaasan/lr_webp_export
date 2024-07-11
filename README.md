@@ -11,7 +11,6 @@ Note: Currently only Lightroom Classic and MacOS are supported.
 * Select this plugin.
 
 # Usage
-* Find the plug-in manager and add the plug-in.
 * Select the photos you want to export
 * Open the export dialog box and select "Export to HEIC" at the top.
 * Set the export image format to TIFF.
