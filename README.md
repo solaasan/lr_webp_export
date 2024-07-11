@@ -5,7 +5,12 @@ Although Lightroom currently supports Heic display, it does not support output i
 
 Note: Currently only Lightroom Classic and MacOS are supported.
 
-# Instructions
+# Add to LR
+* Open the Lightroom Classic Plugin Manager.
+* Click “Add”.
+* Select this plugin.
+
+# Usage
 * Find the plug-in manager and add the plug-in.
 * Select the photos you want to export
 * Open the export dialog box and select "Export to HEIC" at the top.
